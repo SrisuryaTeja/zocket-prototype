@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+langchain
+chromadb
+python-multipart
+python-dotenv
+scikit-learn
+tiktoken
+langchain
+langchain_community
+sentence-transformers
+chromadb
