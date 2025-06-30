@@ -12,7 +12,7 @@ A comprehensive AI-powered marketing research and optimization tool built with F
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.9
 - FastAPI
 - LangChain
 - Pandas
